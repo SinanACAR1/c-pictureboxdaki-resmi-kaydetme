@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\obj\Debug\pictureboxdaki-resmi-kaydetme.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\obj\Debug\pictureboxdaki_resmi_kaydetme.Form1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\obj\Debug\pictureboxdaki_resmi_kaydetme.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\obj\Debug\pictureboxdaki-resmi-kaydetme.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\bin\Debug\pictureboxdaki-resmi-kaydetme.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\bin\Debug\pictureboxdaki-resmi-kaydetme.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\bin\Debug\pictureboxdaki-resmi-kaydetme.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\obj\Debug\pictureboxdaki-resmi-kaydetme.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\pictureboxdaki-resmi-kaydetme\pictureboxdaki-resmi-kaydetme\obj\Debug\pictureboxdaki-resmi-kaydetme.pdb
